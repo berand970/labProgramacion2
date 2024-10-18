@@ -35,9 +35,9 @@ public class PlanSamsung extends Plan{
     }
    
     @Override
-    public void imprimir() {
-        super.imprimir();
-        System.out.println("PIN: " + pin);
+    public String imprimir() {
+       return super.imprimir()+"PIN: " + pin;
+       
     }
 
     public void agregarPinAmigo(String pin) {
