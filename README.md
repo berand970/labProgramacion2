@@ -12,3 +12,5 @@
 ![image](https://github.com/user-attachments/assets/2dec4642-34e8-40be-b6d9-79120b0a3ede)
 
 ![image](https://github.com/user-attachments/assets/a33527dd-5833-4966-aab9-4c7e59d6d244)
+
+//trabajaron andru, daniel, jafet
